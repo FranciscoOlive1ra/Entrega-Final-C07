@@ -1,0 +1,26 @@
+
+ROTEIRO PARA O VÍDEO DE APRESENTAÇÃO - PROJETO ENTREGA FINAL
+
+1. Apresentação do Projeto
+- Sistema de linha de comando em Java com conexão a MySQL.
+- Interage com as tabelas: Usuarios, Locais, Categorias, Eventos e Ingressos.
+
+2. Funcionalidades
+
+INSERT:
+- Inserir novos usuários, eventos, locais, categorias e ingressos.
+
+UPDATE:
+- Atualizar dados, como nome e email de um usuário.
+
+DELETE:
+- Excluir registros de qualquer tabela com base no ID.
+
+SELECT:
+- Listar todos os dados de uma tabela.
+- Buscar por ID específico.
+- JOIN com outra tabela (por exemplo, Ingressos + Eventos + Usuarios).
+
+3. Encerramento
+- Projeto atende todos os requisitos pedidos.
+- Código modular, testável e pronto para execução.
